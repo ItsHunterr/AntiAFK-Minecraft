@@ -1,2 +1,2 @@
-#Anti AFK Minecraft Script
+# Anti AFK Minecraft Script
 
