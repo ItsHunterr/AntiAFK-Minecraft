@@ -1,4 +1,5 @@
 # Anti AFK Minecraft Script
+![terminal](https://i.imgur.com/mQhQhvs.png)
 
 ## How it works?
 Basically it consists of a script that prevents you from being removed from servers for being afk.
